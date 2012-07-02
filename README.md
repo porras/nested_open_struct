@@ -1,4 +1,4 @@
-# NestedOpenStruct
+# NestedOpenStruct [![Build Status](https://secure.travis-ci.org/porras/nested_open_struct.png?branch=master)](http://travis-ci.org/porras/nested_open_struct)
 
 Thin wrapper around OpenStruct in order to create nested structs. Useful for storing configuration settings e.g. loaded from a YAML file.
 
