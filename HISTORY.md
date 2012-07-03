@@ -1,0 +1,5 @@
+# NestedOpenStruct History
+
+## Version 0.0.1 (2012-07-02)
+
+* Initial release
