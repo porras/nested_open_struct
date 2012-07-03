@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = "nested_open_struct"
-  s.version     = '0.0.1'
+  s.version     = '1.0.0'
   s.authors     = ["Sergio Gil"]
   s.email       = ["sgilperez@gmail.com"]
   s.homepage    = "http://github.com/porras/nested_open_struct"
