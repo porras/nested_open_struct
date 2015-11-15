@@ -1,7 +1,7 @@
-require 'test/unit'
+require 'minitest/autorun'
 require File.join(File.dirname(__FILE__), '..', 'lib', 'nested_open_struct')
 
-class NestedOpenStructTest < Test::Unit::TestCase
+class NestedOpenStructTest < Minitest::Test
   def test_one_level
     data = NestedOpenStruct.new('a' => 'a value', 'b' => 'b value', 'c' => 5)
     
