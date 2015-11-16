@@ -13,9 +13,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  minitest
+  minitest (~> 5.8)
   nested_open_struct!
-  rake
+  rake (~> 10.4)
 
 BUNDLED WITH
    1.10.6
