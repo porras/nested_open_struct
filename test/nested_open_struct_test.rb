@@ -1,4 +1,5 @@
 require 'minitest/autorun'
+require 'minitest/pride'
 require File.join(File.dirname(__FILE__), '..', 'lib', 'nested_open_struct')
 
 class NestedOpenStructTest < Minitest::Test
